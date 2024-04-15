@@ -6,7 +6,9 @@ Front-End Developer
 
 Hey there! I'm Gevorg, a student at Yerevan State University. My path to IT began at the university where I started studying web programming. I liked it and started learning HTML, CSS and JS on my own. And now I already have enough knowledge for website layout.
 
-- 📫  How to contact me: <img alt="Static Badge" src="https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=#26A5E4&link=t.me%2Fgevgrigoryan05"> 
+- 📫  How to contact me: <a href="https://t.me/gevgrigoryan05">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=#26A5E4">
+</a>
 
 
 
